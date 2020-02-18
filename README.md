@@ -1,2 +1,2 @@
 # ComplementosI
-Trabajo Final. Algoritmo de de Fruchterman-Reingold para visualización de grafos.
+Trabajo Final. Algoritmo de Fruchterman-Reingold para visualización de grafos.
